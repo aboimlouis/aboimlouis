@@ -1,2 +1,3 @@
-My name is Louis Aboim and I'm a brazilian (aspiring)game developer!
-I'm learning C# (and other tools, like Docker and SQLServer) so I can get a job as a full time back-end developer.
+My name is Louis and I work with .Net/C# in a software company!
+I am currently learning Rust and improving my C# skills, with courses, books and personal projects.
+
